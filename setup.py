@@ -28,7 +28,6 @@ setuptools.setup(
         "umap-learn",
         "scikit-learn",
         "tqdm",
-        "sentencepiece",
         "protobuf"
     ],
     extras_require={
